@@ -3,6 +3,7 @@ A Modern Data Warehouse model following the ETL process with Medallion Architect
 This is my first project and I have learned how data operations are performed in the Bronze, Silver and Gold Layer.
 
 ==================================================================
+
 Project Overview:
 
 1. Dataware house-
@@ -13,6 +14,7 @@ Project Overview:
 3. Star Schema - Data Modelling where the Dimension table (descriptive tables) are linked to the Facts Table (numeric table)
 
 =====================================================================
+
 About Me:
       I am an aspiring Data Analyst and this is my first project. Through projects, I hope to learn more about Data Analysis and progress in my career.
 
